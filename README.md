@@ -96,15 +96,6 @@ Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde
 
 ---
 
-## ��� Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DHTheOne)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
-
-> **Dica:** Meus repositórios principais estão **privados** durante o desenvolvimento ativo.  
-> Entre em contato se quiser acesso para revisão de código ou parceria!
-
 ---
 
 ## ��� Estatísticas do GitHub
