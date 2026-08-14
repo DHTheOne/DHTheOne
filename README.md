@@ -80,20 +80,6 @@ Uso o **Frontend como porta de entrada** para entender aplicações completas, a
 
 ---
 
-## O que estou aprendendo AGORA
-
-### Fundamentos de Backend & Sistemas
-- Node.js avançado · Go (Golang) · PostgreSQL profundo
-- Arquitetura de sistemas · API Design · Auth/Autorização
-
-### Infraestrutura & DevOps
-- Docker & Kubernetes · CI/CD · Cloud (AWS/GCP) · Observabilidade
-
-### Segurança (O Objetivo Final)
-- AppSec · Red Team/Blue Team · Criptografia aplicada · Compliance
-
----
-
 ## Objetivos por Horizonte
 
 | Curto prazo (3–6 meses) | Médio prazo (6–12 meses) | Longo prazo (1–2 anos) |
