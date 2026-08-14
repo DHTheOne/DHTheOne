@@ -1,6 +1,6 @@
 # Olá, sou o Dereck
 
-**Desenvolvedor em formação · Iniciando no Frontend com IA → Backend → Cybersecurity**  
+**Desenvolvedor em formação · Iniciando no Frontend com IA → Backend → Cybersecurity**
 Belo Horizonte, MG · Curso técnico em TI · Em transição para a área tech
 
 ---
@@ -43,18 +43,21 @@ Uso o **Frontend como porta de entrada** para entender aplicações completas, a
 ## Projetos em Destaque
 
 ### [loja-perfumes](https://github.com/DHTheOne/loja-perfumes) — *Em desenvolvimento ativo*
-> **E-commerce premium** — projeto deliberado para aprender **Full Stack** na prática.
+> **E-commerce premium** — projeto deliberado para aprender **Full Stack** na prática. Deploy: https://loja-perfumes.vercel.app (nota: deploy atual difere do código main - ver notas abaixo)
 
 **O que este projeto me ensinou (além de Frontend):**
-- **Arquitetura de software**: ADRs, trade-offs documentados, entrega em fases, risk tracking
-- **Testes automatizados**: 109 unitários (Vitest, 92% coverage) + 48 E2E (Playwright desktop/mobile)
-- **Performance & 3D**: Three.js/R3F procedural, lazy loading, WebGL budget, fallback sem WebGL
-- **Pipeline de mídia automatizado**: Sharp (WebP/Lanczos) + ffmpeg (vídeo 4 variantes/clipe)
-- **SEO/Accessibilidade**: JSON-LD, Open Graph, sitemap, robots, canonical, WCAG 2.2 AA
-- **Segurança/Privacidade**: LGPD structural, CSP, headers, secrets management, Mercado Pago integration
+- **Arquitetura de software**: ADRs (4), trade-offs documentados, entrega em fases, risk tracking em `PROJECT_STATUS.md`
+- **Testes automatizados**: 109 unitários (Vitest, 92% coverage) + 48 E2E (Playwright desktop/mobile) — **todos passando**
+- **Experiência cinematográfica**: Abertura contínua de 6 capítulos autônoma (não controlada por scroll), emendas ópticas medidas, dissolve sem perda de luz, loop sem corte perceptível
+- **3D procedural**: Frasco paramétrico (Three.js/R3F) com cavidade interna, líquido por atenuação, parede 0.055 com `backside`, fallback sem WebGL + `prefers-reduced-motion`
+- **Pipeline de mídia automatizado**: Sharp (WebP/Lanczos) + ffmpeg (vídeo 4 variantes/clipe: desktop/tablet/mobile/poster/tail)
+- **SEO/Accessibilidade**: JSON-LD Product, Open Graph, sitemap, robots, canonical, WCAG 2.2 AA (skip links, pause mechanism, focus management)
+- **Segurança/Privacidade**: LGPD structural, CSP, headers, secrets management, Mercado Pago integration (interface `PaymentProvider`)
 - **DevOps**: Vercel deploy, Git workflow (feature branches, worktrees), CI-ready
 
 **Stack:** Next.js 16 · React 19 · TS strict · Tailwind 4 · Three.js/R3F · Prisma/PostgreSQL (planejado) · Vitest · Playwright
+
+> **Nota sobre o deploy**: O código na branch `main` implementa uma abertura cinematográfica contínua (6 capítulos, ~40s, autônoma, scroll = saída). O deploy atual no Vercel mostra uma versão diferente (tema claro, WhatsApp checkout, sem 3D/cinemático). Próximo passo: alinhar o deploy ao `main`.
 
 ---
 
