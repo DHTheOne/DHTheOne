@@ -98,12 +98,5 @@ Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde
 
 ---
 
-## ��� Estatísticas do GitHub
-
-![DHTheOne's Stats](https://github-readme-stats.vercel.app/api?username=DHTheOne&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHTheOne&layout=compact&theme=dark&hide_border=true)
-
----
-
 *"A melhor forma de aprender é construindo. A melhor forma de provar é mostrando."*  
 — Minha abordagem: **documentar decisões, testar tudo, entregar em fases.**
