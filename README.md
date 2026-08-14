@@ -1,7 +1,7 @@
 # Olá, sou o Dereck
 
 **Desenvolvedor em formação · Iniciando no Frontend com IA → Backend → Cybersecurity**  
-���� Belo Horizonte, MG · ��� Curso técnico em TI · ��� Em transição para a área tech
+Belo Horizonte, MG · Curso técnico em TI · Em transição para a área tech
 
 ---
 
@@ -42,7 +42,7 @@ Uso o **Frontend como porta de entrada** para entender aplicações completas, a
 
 ## Projetos em Destaque
 
-### ������ [loja-perfumes](https://github.com/DHTheOne/loja-perfumes) — *Em desenvolvimento ativo*
+### [loja-perfumes](https://github.com/DHTheOne/loja-perfumes) — *Em desenvolvimento ativo*
 > **E-commerce premium** — projeto deliberado para aprender **Full Stack** na prática.
 
 **O que este projeto me ensinou (além de Frontend):**
@@ -58,7 +58,7 @@ Uso o **Frontend como porta de entrada** para entender aplicações completas, a
 
 ---
 
-### ������ [sectrilha.securityV2](https://github.com/DHTheOne/sectrilha.securityV2) — *Deploy ativo*
+### [sectrilha.securityV2](https://github.com/DHTheOne/sectrilha.securityV2) — *Deploy ativo*
 > **Plataforma educacional open-source** para aprender cibersegurança ética (CC-BY-SA-4.0).
 
 **Meu projeto de paixão — a razão pela qual entrei na tech:**
@@ -72,7 +72,7 @@ Uso o **Frontend como porta de entrada** para entender aplicações completas, a
 
 ---
 
-### ��� sectrilha.securityV1
+### sectrilha.securityV1
 > Versão inicial (julho 2026) — base para a V2. Mantido como referência de evolução.
 
 ---
