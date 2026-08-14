@@ -1,11 +1,11 @@
-# Olá, sou o Dereck �����
+# Olá, sou o Dereck
 
 **Desenvolvedor em formação · Iniciando no Frontend com IA → Backend → Cybersecurity**  
-���� Belo Horizonte, MG · ����� Curso técnico em TI · ����� Em transição para a área tech
+���� Belo Horizonte, MG · ��� Curso técnico em TI · ��� Em transição para a área tech
 
 ---
 
-## ����� Minha Trajetória e Objetivo
+## Minha Trajetória e Objetivo
 
 Não tenho como meta me tornar desenvolvedor Frontend. Meu caminho é:
 
@@ -15,7 +15,7 @@ Frontend (com IA) → Backend → Cybersecurity
 
 Uso o **Frontend como porta de entrada** para entender aplicações completas, aproveitando ferramentas de IA (Claude, ChatGPT, Cursor) para acelerar o aprendizado e construir projetos reais. O objetivo final é atuar em **segurança cibernética** — área pela qual tenho paixão desde o início (veja o projeto **SecTrilha**).
 
-### ����� Linha do tempo
+### Linha do tempo
 
 | Período | Marco |
 |---------|-------|
@@ -27,29 +27,22 @@ Uso o **Frontend como porta de entrada** para entender aplicações completas, a
 
 ---
 
-## �������� Stack Atual (Frontend + IA)
-
-Uso **IA como copiloto** em todo o ciclo: arquitetura, código, testes, documentação, debug.
+## Stack Principal
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss)
 ![Three.js](https://img.shields.io/badge/Three.js-r185-black?logo=three.js)
-![Vitest](https://img.shields.io/badge/Vitest-4-6E9F18?logo=vitest)
-![Playwright](https://img.shields.io/badge/Playwright-1.62-2EAD33?logo=playwright)
 ![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-5-2D3748?logo=prisma)
-
-**Ferramentas de IA:** Claude (Opus/Sonnet), ChatGPT Plus, Cursor, GitHub Copilot  
-**Outras:** Lenis, React Three Fiber/Drei, ESLint, PostCSS, Sharp, ffmpeg, Mercado Pago SDK
+![Go](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white)
 
 ---
 
-## ����� Projetos em Destaque
+## Projetos em Destaque
 
-### �������� [loja-perfumes](https://github.com/DHTheOne/loja-perfumes) — *Em desenvolvimento ativo*
+### ������ [loja-perfumes](https://github.com/DHTheOne/loja-perfumes) — *Em desenvolvimento ativo*
 > **E-commerce premium** — projeto deliberado para aprender **Full Stack** na prática.
 
 **O que este projeto me ensinou (além de Frontend):**
@@ -65,7 +58,7 @@ Uso **IA como copiloto** em todo o ciclo: arquitetura, código, testes, document
 
 ---
 
-### �������� [sectrilha.securityV2](https://github.com/DHTheOne/sectrilha.securityV2) — *Deploy ativo*
+### ������ [sectrilha.securityV2](https://github.com/DHTheOne/sectrilha.securityV2) — *Deploy ativo*
 > **Plataforma educacional open-source** para aprender cibersegurança ética (CC-BY-SA-4.0).
 
 **Meu projeto de paixão — a razão pela qual entrei na tech:**
@@ -79,69 +72,50 @@ Uso **IA como copiloto** em todo o ciclo: arquitetura, código, testes, document
 
 ---
 
-### ����� sectrilha.securityV1
+### ��� sectrilha.securityV1
 > Versão inicial (julho 2026) — base para a V2. Mantido como referência de evolução.
 
 ---
 
-## ����� O que estou aprendendo AGORA (Preparando transição para Backend)
+## O que estou aprendendo AGORA
 
 ### Fundamentos de Backend & Sistemas
-- [ ] **Node.js avançado** — Event Loop, streams, worker threads, clustering
-- [ ] **Go (Golang)** — Concorrência, interfaces, performance, tooling
-- [ ] **PostgreSQL profundo** — Índices, planos de execução, particionamento, replicação
-- [ ] **Arquitetura de sistemas** — Microserviços vs monolito, message queues, caching, observabilidade
-- [ ] **API Design** — REST, GraphQL, gRPC, versionamento, contratos, OpenAPI
-- [ ] **Autenticação/Autorização** — OAuth2/OIDC, JWT, RBAC/ABAC, session management
+- Node.js avançado · Go (Golang) · PostgreSQL profundo
+- Arquitetura de sistemas · API Design · Auth/Autorização
 
 ### Infraestrutura & DevOps
-- [ ] **Docker & Kubernetes** — Containers, pods, services, ingress, Helm
-- [ ] **CI/CD** — GitHub Actions, pipelines, deploy strategies, rollback
-- [ ] **Cloud (AWS/GCP)** — VPC, IAM, managed services, serverless
-- [ ] **Observabilidade** — Logs estruturados, métricas, tracing distribuído, alerting
+- Docker & Kubernetes · CI/CD · Cloud (AWS/GCP) · Observabilidade
 
 ### Segurança (O Objetivo Final)
-- [ ] **AppSec** — OWASP Top 10, SAST/DAST/SCA, threat modeling, secure SDLC
-- [ ] **Red Team/Blue Team** — Técnicas de ataque/defesa, SIEM, incident response
-- [ ] **Criptografia aplicada** — TLS, certificados, key management, assinaturas
-- [ ] **Compliance** — LGPD/GDPR, SOC2, ISO 27001, auditoria
+- AppSec · Red Team/Blue Team · Criptografia aplicada · Compliance
 
 ---
 
-## ����� Objetivos por Horizonte
+## Objetivos por Horizonte
 
 | Curto prazo (3–6 meses) | Médio prazo (6–12 meses) | Longo prazo (1–2 anos) |
 |--------------------------|---------------------------|------------------------|
-| Finalizar **loja-perfumes** (Full Stack completo: frontend + backend + deploy) | Construir **APIs robustas** em Node.js/Go com PostgreSQL | Atuar como **Security Engineer / AppSec** |
+| Finalizar **loja-perfumes** (Full Stack completo) | Construir **APIs robustas** em Node.js/Go com PostgreSQL | Atuar como **Security Engineer / AppSec** |
 | Dominar **fundamentos de Backend** (APIs, DB, auth, testes) | Contribuir para **open source** (ferramentas de seg, Go libraries) | Certificações: **OSCP, eJPT, AWS Security, CKS** |
 | Publicar **artigos técnicos** sobre aprendizado com IA + arquitetura | Mentorar iniciantes em **cybersec education** (SecTrilha) | Liderar iniciativas de **DevSecOps / Secure by Design** |
 
 ---
 
-## ����� Conecte-se comigo
+## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DHTheOne)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DHTheOne)
 
 > **Nota:** Meus repositórios principais são **públicos** e documentados.  
-> Entre em contato se quiser trocar ideias sobre: aprendizado com IA, arquitetura Full Stack, ou cybersecurity education.
+> Entre em contato via GitHub se quiser trocar ideias sobre: aprendizado com IA, arquitetura Full Stack, ou cybersecurity education.
 
 ---
 
-## ����� Estatísticas do GitHub
-
-![DHTheOne's Stats](https://github-readme-stats.vercel.app/api?username=DHTheOne&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHTheOne&layout=compact&theme=dark&hide_border=true)
-
----
-
-## ����� Minha Abordagem
+## Minha Abordagem
 
 > **"A melhor forma de aprender é construindo. A melhor forma de provar é mostrando."**
 
 - **IA como acelerador**, não muleta — entendo o que o código faz antes de commitar
-- **Documentação rigorosa** — ADRs, decisões, riscos, trade-offs (futuro eu e outros agradecem)
+- **Documentação rigorosa** — ADRs, decisões, riscos, trade-offs
 - **Testes como especificação** — coverage threshold travado, E2E em CI
 - **Entrega em fases** — nada declarado pronto sem verificação real
 - **Segurança desde o início** — não é feature, é fundamento
