@@ -35,9 +35,9 @@ Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde
 
 ---
 
-## ��� Projetos em Destaque
+##  Projetos em Destaque
 
-### ��� [loja-perfumes](https://github.com/DHTheOne/loja-perfumes) — *Em desenvolvimento ativo*
+###  [loja-perfumes](https://github.com/DHTheOne/loja-perfumes) — *Em desenvolvimento ativo*
 > **E-commerce premium de perfumes** com experiência 3D cinematográfica imersiva.
 
 **Destaques técnicos:**
@@ -54,7 +54,7 @@ Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde
 
 ---
 
-### ������ [sectrilha.securityV2](https://github.com/DHTheOne/sectrilha.securityV2) — *Deploy ativo*
+###  [sectrilha.securityV2](https://github.com/DHTheOne/sectrilha.securityV2) — *Deploy ativo*
 > **Plataforma educacional open-source** para aprender cibersegurança ética do zero (CC-BY-SA-4.0).
 
 **Deploy:** https://sectrilha-security-v2.vercel.app
