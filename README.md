@@ -1,15 +1,15 @@
-# Olá, sou o Dereck ���
+# Olá, sou o Dereck 
 
 **Desenvolvedor Frontend em formação · Foco em React/Next.js, TypeScript & Experiências 3D/WebGL**  
-���� Belo Horizonte, MG · ��� Curso técnico em TI · ��� Em transição para a área tech
+ Belo Horizonte, MG ·  Curso técnico em TI ·  Em transição para a área tech
 
 ---
 
-## ��� Minha Trajetória
+##  Minha Trajetória
 
 Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde então, venho construindo projetos reais para consolidar meu aprendizado e criar um portfólio que demonstre evolução técnica consistente.
 
-### ��� Linha do tempo
+###  Linha do tempo
 
 | Período | Marco |
 |---------|-------|
@@ -21,7 +21,7 @@ Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde
 
 ---
 
-## ��� Stack Principal
+##  Stack Principal
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
@@ -70,12 +70,12 @@ Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde
 
 ---
 
-### ��� sectrilha.securityV1
+###  sectrilha.securityV1
 > Versão inicial (julho 2026) — base para a V2. Mantido como referência de evolução.
 
 ---
 
-## ��� O que estou aprendendo agora
+##  O que estou aprendendo agora
 
 - [ ] **Next.js 16 App Router** avançado (Server Components, Streaming, Parallel Routes)
 - [ ] **Three.js / R3F** — Shaders customizados, pós-processamento, performance 3D
@@ -86,7 +86,7 @@ Comecei minha jornada em **outubro de 2025** criando esta conta no GitHub. Desde
 
 ---
 
-## ��� Objetivos Futuros
+##  Objetivos Futuros
 
 | Curto prazo (3–6 meses) | Médio prazo (6–12 meses) | Longo prazo (1+ ano) |
 |--------------------------|---------------------------|----------------------|
